@@ -8,13 +8,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237696900612"
+global.ownernomer = "233557560911"
 global.ownername = "*Hans Tech"
 global.ytname = "YT: HansTech0"
 global.socialm = ""
-global.location = "EARTH,AFRICA"
+global.location = "DUBAI,UAE"
 
-global.ownernumber = '237696900612'  //creator number
+global.ownernumber = '233557560911'  //creator number
 global.ownername = 'Harold MTH' //owner name
 global.botname = 'Hans-Bug-bot' //name of the bot
 
@@ -39,7 +39,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
