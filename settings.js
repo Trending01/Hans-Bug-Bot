@@ -30,7 +30,7 @@ global.wm = "Hans Tech😏"
 global.link = 'https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['.']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
